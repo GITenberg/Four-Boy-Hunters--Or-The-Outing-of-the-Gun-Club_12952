@@ -1,5 +1,8 @@
 _repo: Four-Boy-Hunters--Or-The-Outing-of-the-Gun-Club_12952
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12952#Four-Boy-Hunters--Or-The-Outing-of-the-Gun-Club
 gutenberg_issued: '2004-07-19'
 gutenberg_type: Text
 identifiers:
